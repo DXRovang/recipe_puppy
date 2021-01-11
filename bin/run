@@ -1,0 +1,6 @@
+#!/usr/bin/env 
+
+require_relative "../config/environment"
+
+
+NjHikes::CLI.new.call
